@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd01a2f-16f2-4730-a4f1-8631f5329f71" name="Changes" comment="4주차 수정 제출" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gnh5aa7IacBSLklYj37Yr7gvii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SM-PC/spring_study/springProject-1&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd01a2f-16f2-4730-a4f1-8631f5329f71" name="Changes" comment="" />
+      <created>1667030072843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667030072843</updated>
+      <workItem from="1667030075168" duration="529000" />
+      <workItem from="1667030619873" duration="630000" />
+      <workItem from="1667035448392" duration="987000" />
+      <workItem from="1667036696791" duration="53000" />
+      <workItem from="1667036763205" duration="627000" />
+      <workItem from="1667037529688" duration="627000" />
+      <workItem from="1667039056684" duration="1249000" />
+      <workItem from="1667057028243" duration="299000" />
+      <workItem from="1667201276636" duration="899000" />
+      <workItem from="1668245101462" duration="429000" />
+    </task>
+    <task id="LOCAL-00001" summary="전체 조회 화면">
+      <created>1667035577814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667035577814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="게시글 수정">
+      <created>1667036740380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667036740380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="게시글 삭제">
+      <created>1667037555531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667037555531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="(3주차) 최종">
+      <created>1667057067080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667057067080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4주차 수정 제출">
+      <created>1668245133411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668245133411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="전체 조회 화면" />
+    <MESSAGE value="게시글 수정" />
+    <MESSAGE value="게시글 삭제" />
+    <MESSAGE value="(3주차) 최종" />
+    <MESSAGE value="4주차 수정 제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="4주차 수정 제출" />
+  </component>
+</project>
